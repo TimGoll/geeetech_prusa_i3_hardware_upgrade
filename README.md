@@ -11,4 +11,6 @@ The z-axis sled got complely reworked. <br>
 To further improve the sound level, two bearings were added.
 
 ## Bowden Extruder
-My design is based on [this one by Tech2C](https://www.thingiverse.com/thing:1632847) but was heavily modified. 
+My design is based on [this one by Tech2C](https://www.thingiverse.com/thing:1632847) but was heavily modified.
+
+<script src="https://github.com/TimGoll/geeetech_prusa_i3_hardware_upgrade/blob/master/stl/stepper_holder_clamp.stl"></script>
